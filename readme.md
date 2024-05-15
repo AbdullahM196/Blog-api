@@ -36,7 +36,7 @@ The API will be accessible at http://localhost:<PORT>.
 Testing
 Run tests using npm test. This will execute Jest tests to ensure the functionality of the API.
 
-Acknowledgements
+Acknowledgments
 
 Node.js
 MySQL
