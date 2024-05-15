@@ -16,17 +16,29 @@ Configuration
 Create a `.env` file in the root directory and add the following environment variables:
 
 PORT=Your_Port_Value
+
 MYSQL_HOST=Your_MySQL_Host
+
 MYSQL_USER=Your_MySQL_Username
+
 MYSQL_PASSWORD=Your_MySQL_Password
+
 MYSQL_NAME=Your_MySQL_Database_Name
+
 allowedOrigins=Your_Allowed_Origins
+
 TOKEN_SECRET=Your_Token_Secret
+
 firebase_apiKey=Your_Firebase_API_Key
+
 firebase_authDomain=Your_Firebase_Auth_Domain
+
 firebase_projectId=Your_Firebase_Project_ID
+
 firebase_storageBucket=Your_Firebase_Storage_Bucket
+
 firebase_messagingSenderId=Your_Firebase_Messaging_Sender_ID
+
 firebase_appId=Your_Firebase_App_ID
 
 Usage
